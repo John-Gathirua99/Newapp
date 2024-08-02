@@ -1,0 +1,1 @@
+default_app_config = 'Register_apps.RegisterConfig'
